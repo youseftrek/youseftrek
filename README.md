@@ -1,9 +1,8 @@
 # Hi there, I'm Yousef Tarek 👋  
-**Full Stack Developer | AI Enthusiast | Open Source Contributor**  
+**Full Stack Developer | Open Source Contributor | AI Enthusiast**  
 
 🌍 **Location**: Cairo, Egypt  
 📧 **Contact**: [youseftarek.business@gmail.com](mailto:youseftarek.business@gmail.com)  
-🌐 **Portfolio**: [Coming Soon]  
 🔗 **Connect**: [LinkedIn](https://linkedin.com/in/yousef-tarek) | [GitHub](https://github.com/youseftrek)  
 
 ---
@@ -20,13 +19,13 @@ I'm a passionate Full Stack Developer skilled in creating scalable and modern we
 ## 🔨 Currently Working On  
 
 ### **Motager** (Graduation Project)  
-**Motager** is a comprehensive e-commerce platform designed to help sellers build and customize their online stores.  
+**Motager** is a comprehensive **micro-service** e-commerce platform designed to help sellers build and customize their online stores.  
 - **Features**:  
   - Drag-and-Drop (DND) Builder for store design.  
   - Tools for managing orders, products, and users.  
   - Responsive and scalable architecture.  
 - **Inspiration**: Similar to **Shopify**, but tailored for local needs and enhanced customization.  
-- **Technologies**: Next.js, Prisma, Tailwind CSS, TypeScript, and Node.js.  
+- **Technologies**: Next.js, Tailwind CSS, TypeScript, and Bun.  
 
 ---
 
@@ -48,7 +47,6 @@ I'm a passionate Full Stack Developer skilled in creating scalable and modern we
 
 ## 📊 GitHub Stats  
 
-![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youseftrek&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youseftrek&layout=compact&theme=radical)  
 
 ---
